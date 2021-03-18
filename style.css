@@ -1,0 +1,23 @@
+.size{
+  height:300px;
+}
+main {
+  background-color: azure;
+  color:rgb(100, 100, 121);
+}
+body {
+  background-image: url(images/BG.png);
+  height: 100%;
+}
+#wrapper{
+  width: 60%;
+  margin: auto;
+  margin-top: 30px;
+}
+ul{
+  list-style-image: url("images/small.png");
+}
+.specialborder {
+  border: 60px dotted;
+  border-image: url("images/border.jpg");
+}
